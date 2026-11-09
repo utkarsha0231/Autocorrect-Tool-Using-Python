@@ -1,0 +1,9 @@
+
+streamlit
+pyspellchecker
+language-tool-python
+SpeechRecognition
+streamlit-mic-recorder
+gTTS
+reportlab
+requests
